@@ -1,4 +1,4 @@
----
+---made a change
 title: Managing GitHub packages
 shortTitle: Managing GitHub packages
 intro: 'You can publish new packages to {% data variables.product.prodname_registry %}, view and install existing packages, and, in special circumstances, delete existing packages.'
